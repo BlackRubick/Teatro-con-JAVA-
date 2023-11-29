@@ -21,7 +21,7 @@ public class HelloApplication extends Application {
         stage.setTitle("Sistema de Reservas de Teatro");
 
         // Crea la escena con la vista cargada y establece el tamaño de la ventana
-        Scene scene = new Scene(root, 800, 600);
+        Scene scene = new Scene(root, 900, 700);
 
         // Establece la escena en el escenario y la muestra
         stage.setScene(scene);
